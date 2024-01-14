@@ -1,16 +1,13 @@
-### Hi there 👋
+## Statistics
+<a href="https://github.com/demirkolak0/demirkolak0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=demirkolak0&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/demirkolak0/demirkolak0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirkolak0&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
 
-<!--
-**demirkolak0/demirkolak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=demirkolak0.demirkolak0" alt="visitor badge"/>
