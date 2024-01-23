@@ -1,5 +1,5 @@
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?demirkolak0=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demirkolak0" alt="demirkolak0" /></a> </p>
 ## Statistics
 <a href="https://github.com/demirkolak0/demirkolak0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=demirkolak0&count_private=true&show_icons=true&theme=tokyonight" />
